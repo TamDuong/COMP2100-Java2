@@ -1,0 +1,4 @@
+When have problem with parameter type as generic(E for example) try the flowing to fix:
++ check the main method if you adding the class. before the method you want to call. Like [class.methodInThisClassYouWant(E want)]. Look at inclass main method and add method in ArrayListDemo as an example.
+
+
